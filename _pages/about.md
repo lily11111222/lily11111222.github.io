@@ -20,7 +20,8 @@ redirect_from:
 Likun Li is a postgradute student of Software Engineering Institute, East China Normal University (2024-), advised by Prof. Ting Su. Her undergraduate studies were also undertaken at ECNU SEI(2021-2025).
 
 Her research focus on Software Testing and Security.
-
+- Kernel Security.
+- Network Protocol Security.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
